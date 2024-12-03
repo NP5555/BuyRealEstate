@@ -9,6 +9,17 @@ Welcome to HomeTopia, a powerful web platform for buying, selling, and renting p
 </a>
 </div>
 
+## Preview
+
+<img src="./src/assets/previews/screencapture-real-estate-sepia-theta-vercel-app-sign-up-2024-12-03-17_49_06.png">
+
+<img src="./src/assets/previews/screencapture-real-estate-sepia-theta-vercel-app-sign-in-2024-12-03-17_48_52.png">
+
+<img src="./src/assets/previews/screencapture-real-estate-sepia-theta-vercel-app-category-sale-n0eSDsPhPT57mdIgrB1r-2024-12-03-17_48_10.png">
+
+<img src="./src/assets/previews/screencapture-real-estate-sepia-theta-vercel-app-offers-2024-12-03-17_48_30.png">
+
+
 
 ## Technologies Used
 
